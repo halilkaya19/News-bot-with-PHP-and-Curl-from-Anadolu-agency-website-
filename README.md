@@ -6,4 +6,3 @@ public_html de aabot adın da bir klasör oluşturun
 
 Bunun içine de images adın da bir klasör oluşturup cmod 777 verin ve botunuzu çalıştırın.
 
-www.erdinckoc.com.tr
