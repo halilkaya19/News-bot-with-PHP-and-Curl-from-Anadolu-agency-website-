@@ -1,6 +1,9 @@
 <h2>PHP İLE HABER BOTU (anadolu ajansı sitesinden)</h2>
 
-AA Dünya Botu kullanımı
+AA Ajans Dünyadan haberleri çekme Botu ve kullanımı
+
+Kullanımı :
+-----------
 
 public_html de aabot adın da bir klasör oluşturun 
 
